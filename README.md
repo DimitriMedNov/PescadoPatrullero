@@ -1,5 +1,4 @@
 # PescadoPatrullero
-![Screenshot 2025-03-25 015633](https://github.com/user-attachments/assets/1090f49d-be91-408e-913e-609889a419e5)
 ![Screenshot 2025-03-25 015530](https://github.com/user-attachments/assets/96e0ab39-dead-4a0a-8b27-161fd8af0d17)
 ![Screenshot 2025-03-25 015539](https://github.com/user-attachments/assets/af4d3575-f488-4d2e-88dd-5fbe94f4309c)
 ![Screenshot 2025-03-25 015544](https://github.com/user-attachments/assets/d42a0f5b-21a0-4e5e-9504-f053f5c1c46b)
